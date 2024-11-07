@@ -1,0 +1,8 @@
+[package]
+name = "RustAssignment2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+protobuf = "2.27"
+clap = { version = "4.0", features = ["derive"] }
