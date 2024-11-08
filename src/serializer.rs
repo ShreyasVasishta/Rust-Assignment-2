@@ -21,6 +21,8 @@ struct Cli{
     output_file: String,
 }
 
+
+
 /// Encodes a u64 integer using variable-length encoding (varint format) and appends it to a buffer.
 /// 
 /// # Arguments
