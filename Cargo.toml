@@ -6,3 +6,11 @@ edition = "2021"
 [dependencies]
 protobuf = "2.27"
 clap = { version = "4.0", features = ["derive"] }
+
+[[bin]]
+name = "serializer"
+path = "src/serializer.rs"         
+
+[[bin]]
+name = "deserializer"
+path = "src/deserializer.rs"
