@@ -1,0 +1,1 @@
+/home/shreyaskr/Desktop/RustAssignment2/Rust-Assignment-2/target/debug/serializer: /home/shreyaskr/Desktop/RustAssignment2/Rust-Assignment-2/src/main.rs /home/shreyaskr/Desktop/RustAssignment2/Rust-Assignment-2/src/person.rs
